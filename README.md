@@ -15,16 +15,20 @@ Discover albums, dive deep into details, rate your favorites ⭐, and keep track
 
 🎬 Screenshots
 Home Page
-y/screenshots/home.png
+
+(./screenshots/home.png)
 
 Album Detail Page
-y/screenshots/album.png
+
+(./screenshots/album.png)
 
 Rated Albums Page
-y/screenshots/rated.png
+
+(./screenshots/rated.png)
 
 Search Function
-y/screenshots/search.png
+
+(./screenshots/search.png)
 
 🛠 Installation
 Clone this repo:
