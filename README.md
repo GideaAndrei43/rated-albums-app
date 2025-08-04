@@ -19,13 +19,13 @@ Home Page
 ![Home Page](y/screenshots/home.png)
 
 Album Detail Page
-![Album Detail Page](./screenshots/album.png)
+![Album Detail Page](y/screenshots/album.png)
 
 Rated Albums Page
-![Rated Albums Page](./screenshots/rated.png)
+![Rated Albums Page](y/screenshots/rated.png)
 
 Search Function
-![Search Function](./screenshots/search.png)
+![Search Function](y/screenshots/search.png)
 
 🛠 Installation
 Clone this repo:
