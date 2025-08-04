@@ -14,21 +14,18 @@ Discover albums, dive deep into details, rate your favorites ⭐, and keep track
 📱 Responsive Design: Clean UI with a smooth collapsible side menu for effortless navigation.
 
 🎬 Screenshots
-Home Page
 
-(./screenshots/home.png)
+Home Page
+![Home Page](./screenshots/home.png)
 
 Album Detail Page
-
-(./screenshots/album.png)
+![Album Detail Page](./screenshots/album.png)
 
 Rated Albums Page
-
-(./screenshots/rated.png)
+![Rated Albums Page](./screenshots/rated.png)
 
 Search Function
-
-(./screenshots/search.png)
+![Search Function](./screenshots/search.png)
 
 🛠 Installation
 Clone this repo:
