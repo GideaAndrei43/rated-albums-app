@@ -1,4 +1,5 @@
 🎵 Rated Albums App 🎶
+
 Welcome to Rated Albums, your ultimate React-powered music companion! 🎧
 Discover albums, dive deep into details, rate your favorites ⭐, and keep track of your personal top picks — all in one slick, modern app.
 
