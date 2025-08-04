@@ -16,7 +16,7 @@ Discover albums, dive deep into details, rate your favorites ⭐, and keep track
 🎬 Screenshots
 
 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](y/screenshots/home.png)
 
 Album Detail Page
 ![Album Detail Page](./screenshots/album.png)
